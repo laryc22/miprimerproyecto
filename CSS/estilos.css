@@ -1,0 +1,32 @@
+* {
+    font-family: 'Rubik', sans-serif;;
+    color: black
+}
+
+body {
+    background-color: aliceblue;
+  }
+  
+  h {
+    color: gray;
+    text-align: center;
+    width: 300px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+  }
+  
+  p {
+    color: gray;
+    font-family: Verdana;
+    font-size: 20px;
+  }
+
+  h1 {
+    text-align: center;
+-webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 3px 3px 10px 13px rgba(0,0,0,0); 
+box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 3px 3px 10px 13px rgba(0,0,0,0);
+}
+
+
+  
